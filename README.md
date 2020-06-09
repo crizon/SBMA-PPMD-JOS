@@ -7,9 +7,11 @@ The system is LAN based, stores the job order of 5 different section, it automat
 
 Developed using HTML, CSS, JAVASCRIPT, PHP and MYSQL.
 
+<img src="https://i.ibb.co/8cvnNpp/PPMD-JOS.png" alt="PPMD-JOS" border="0">
+<img src="https://i.ibb.co/mF2yprL/ppmd.png" alt="ppmd" border="0">
 <img src="https://i.ibb.co/ZLLr8q7/ppmd-2.png" alt="ppmd-2" border="0">
 <img src="https://i.ibb.co/qL6QHv1/ppmd-3.png" alt="ppmd-3" border="0">
 <img src="https://i.ibb.co/frM3LTv/ppmd-4.png" alt="ppmd-4" border="0">
 <img src="https://i.ibb.co/s3DVGkW/ppmd-5.png" alt="ppmd-5" border="0">
-<img src="https://i.ibb.co/mF2yprL/ppmd.png" alt="ppmd" border="0">
-<img src="https://i.ibb.co/8cvnNpp/PPMD-JOS.png" alt="PPMD-JOS" border="0">
+
+
